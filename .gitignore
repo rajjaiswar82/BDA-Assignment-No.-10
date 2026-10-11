@@ -1,0 +1,7 @@
+# Dataset is large and should be downloaded from the source
+creditcard.csv
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
