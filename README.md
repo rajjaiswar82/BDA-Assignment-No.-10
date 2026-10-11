@@ -1,7 +1,7 @@
 # Fintech Fraud Detection Using Big Data Analytics
 
 **BDA Assignment No. 10 — BE Computer Engineering, Semester 7**  
-**Authors:** Raj Jaiswar and Adrain
+**Authors: Raj Jaiswar 
 
 ## Project overview
 This educational project builds a reproducible machine-learning baseline for identifying potentially fraudulent credit-card transactions. It uses a public, anonymized dataset and a class-weighted Logistic Regression pipeline. The goal is to demonstrate data preparation, rare-event classification, and appropriate evaluation—not to claim production readiness.
@@ -12,7 +12,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 The dataset contains 284,807 transactions and 492 fraud cases (about 0.172%). Features `V1`–`V28` are anonymized PCA components; `Time` and `Amount` are also provided. `Class=1` means fraud and `Class=0` means legitimate. Dataset description and counts are from the source listing; confirm details against the downloaded file.
 
-**Do not commit `creditcard.csv` to GitHub.** It is large; link to the original dataset page instead.
+
 
 ## Repository structure
 ```text
